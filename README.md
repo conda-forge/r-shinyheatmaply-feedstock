@@ -1,11 +1,11 @@
-About r-shinyheatmaply
-======================
+About r-shinyheatmaply-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinyheatmaply-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/yonicd/shinyHeatmaply
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinyheatmaply-feedstock/blob/main/LICENSE.txt)
 
 Summary: Access functionality of the 'heatmaply' package through 'Shiny UI'.
 
