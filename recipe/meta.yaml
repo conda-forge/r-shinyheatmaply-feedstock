@@ -1,6 +1,5 @@
 {% set version = '0.2.0' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-shinyheatmaply
@@ -13,8 +12,7 @@ source:
   sha256: 0416b64aa4f9f45e00be46cb43250b1da414f95cc03178855778a6b5773becd8
 
 build:
-  merge_build_host: True  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
